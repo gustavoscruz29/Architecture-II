@@ -1,4 +1,4 @@
-<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/df0a74a3-e02f-45c4-8a0a-da5fff19b257" /># Second lesson 📖
+# Second lesson 📖
 - In this lesson, OR logic gate and multiplexer were added.
 - Furthermore, other adjustments have been made.
 
