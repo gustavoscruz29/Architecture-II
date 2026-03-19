@@ -1,12 +1,15 @@
+-- Archicteture lesson 18-03-2026
+-- Student: Gustavo dos Santos Cruz
+
 library ieee;
 use ieee.std_logic_1164.all;
 
-entity pAnd is port (
+entity celula1b is port (
 	a, b: in std_logic;
-	s: out std_logic);
-end pand;
+	r: out std_logic);
+end celula1b;
 
-architecture arq of pand is
+architecture arq of celula1b is
 begin
-	s <= a and b;
+	u0: work.pand port map (a=>a, b=>b, s=>r);
 end arq;
