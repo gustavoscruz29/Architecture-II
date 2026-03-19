@@ -6,4 +6,4 @@
 ![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/imageAlu4Bit.jpg?raw=true)
 
 ## The image below illustrates a wave simulation
-![image_alt]()
+![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/simulacao1.png?raw=true)
