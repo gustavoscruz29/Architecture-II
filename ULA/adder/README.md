@@ -9,7 +9,7 @@
 ## The image below illustrates the truth table with Carry in and Carry Out
 ![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/tabela_verdade.jpg?raw=true)
 
-## The image below shows the Karnaugh Map for the R and Cout outpus with the expressions implmented in VHDL in somador.vhd
+### The image below shows the Karnaugh Map for the R and Cout outpus with the expressions implmented in VHDL in somador.vhd
 ![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/expressoes.jpg?raw=true)
 
 ## The image below illustrates a wave simulation
