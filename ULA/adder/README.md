@@ -4,7 +4,7 @@
 - We had to create the Karnaugh Map for the outputs of our adder.
 
 ## The image below illustrates the idea of a binary sum
-![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/imageAlu4Bit.jpg?raw=true)
+![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/sum_idea.png?raw=true)
 
 ## The image below illustrates a wave simulation
 
