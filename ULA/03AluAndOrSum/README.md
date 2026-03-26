@@ -7,3 +7,7 @@
 
 ## The image below illustrates our current ALU
 ![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/lessonIdea.png?raw=true)
+
+## The images below illustrates wave simulations
+- The second image shows a simulation in which the sum is incorrect.
+- This happens because our ALU only supports additions where the sum is less than sixteen.
