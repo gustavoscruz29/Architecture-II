@@ -5,3 +5,4 @@
 - Our adder, at the moment, only performs sums.
 - Furthermore, our ALU is ready to perform AND, OR, and SUM operations.
 
+## The image below illustrates our current ALU
