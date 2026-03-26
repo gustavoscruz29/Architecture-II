@@ -6,3 +6,4 @@
 - Furthermore, our ALU is ready to perform AND, OR, and SUM operations.
 
 ## The image below illustrates our current ALU
+![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/lessonIdea.png?raw=true)
