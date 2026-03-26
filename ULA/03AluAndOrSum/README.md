@@ -11,3 +11,9 @@
 ## The images below illustrates wave simulations
 - The second image shows a simulation in which the sum is incorrect.
 - This happens because our ALU only supports additions where the sum is less than sixteen.
+
+### Simulation done in the laboratory
+![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/classSimulation.png?raw=true)
+
+### Simulation with overflow
+![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/SumOverflowSimulation.png?raw=true)
