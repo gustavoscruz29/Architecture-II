@@ -1,12 +1,30 @@
-# Second lesson 📖
-- In this lesson, OR logic gate and multiplexer were added.
-- Furthermore, other adjustments have been made.
+# 📖 Second Lesson
 
-## The image below illustrates the second stage of the project
-![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/images/imageAlu4Bit.jpg?raw=true)
+In this stage of the project, the **OR logic gate** and a **multiplexer (MUX)** were implemented.  
+Additionally, several adjustments and improvements were made to the design.
 
-## The image below illustrates a wave simulation
+---
 
-![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/images/simulacao1.png?raw=true)
-- The input values A and B are defined as 1001 and 0011 respectively.
-- In the middle of the simulation, we change the opperation to 1 (OR).
+## 🔧 ALU – Second Stage Overview
+
+The image below illustrates the second stage of the ALU development:
+
+![ALU 4-bit](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/images/imageAlu4Bit.jpg?raw=true)
+
+---
+
+## 📊 Waveform Simulation
+
+The following image shows the simulation waveform of the circuit:
+
+![Simulation](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/images/simulacao1.png?raw=true)
+
+---
+
+## 🧪 Simulation Details
+
+- The input values are defined as:
+  - **A = 1001**
+  - **B = 0011**
+- During the simulation, the operation control signal is changed to **1**, which corresponds to the **OR operation**.
+- As a result, the output reflects the bitwise OR between **A** and **B**.
