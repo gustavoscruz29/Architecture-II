@@ -1,19 +1,40 @@
-# Fourth Lesson 📚
+# 📚 Fourth Lesson
 
-- In this lesson, we added the adder to our ALU project.
-- The adder was included in the project with the necessary adjustments.
-- Our adder, at the moment, only performs sums.
-- Furthermore, our ALU is ready to perform AND, OR, and SUM operations.
+In this stage of the project, an **adder** was integrated into the ALU.
 
-## The image below illustrates our current ALU
-![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/lessonIdea.png?raw=true)
+- The adder was implemented with the necessary adjustments to fit the existing design.
+- Currently, the adder performs only **addition operations**.
+- At this point, the ALU is capable of executing:
+  - **AND**
+  - **OR**
+  - **SUM (Addition)**
 
-## The images below illustrates wave simulations
-- The second image shows a simulation in which the sum is incorrect.
-- This happens because our ALU only supports additions where the sum is less than sixteen.
+---
 
-### Simulation done in the laboratory
-![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/classSimulation.png?raw=true)
+## 🔧 ALU – Current Architecture
 
-### Simulation with overflow
-![image_alt](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/SumOverflowSimulation.png?raw=true)
+The image below illustrates the current structure of the ALU:
+
+![ALU Design](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/lessonIdea.png?raw=true)
+
+---
+
+## 📊 Waveform Simulations
+
+The following images present waveform simulations of the ALU:
+
+- The second simulation demonstrates an **incorrect sum result**.
+- This occurs because the ALU currently supports only **4-bit operations**, meaning results are limited to values **less than 16**.
+- When the result exceeds this limit, an **overflow** occurs, which is not yet handled by the system.
+
+---
+
+### 🧪 Laboratory Simulation
+
+![Lab Simulation](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/classSimulation.png?raw=true)
+
+---
+
+### ⚠️ Overflow Simulation
+
+![Overflow Simulation](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/SumOverflowSimulation.png?raw=true)
