@@ -1,7 +1,7 @@
 # 📖 Second Lesson
 
 - In this stage of the project, the **OR logic gate** and a **multiplexer (MUX)** were implemented.  
-- Additionally, several adjustments and improvements were made to the design.
+- Additionally, other adjustments were made to the design.
 
 ---
 
