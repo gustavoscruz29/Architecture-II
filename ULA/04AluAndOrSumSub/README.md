@@ -17,7 +17,7 @@ In this stage of the project, an **subtractor** was integrated into the ALU.
 
 The image below illustrates one way to implement adder and subtractor in the ALU:
 
-![First possibily of Sub/Sum implementation](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/04AluAndOrSumSub/images/sumAndSum1.png?raw=true)
+![First possibily of Sub/Sum implementation](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/04AluAndOrSumSub/images/sumAndSub1.png?raw=true)
 
 This one was not implemented, because the another way is more simple and practice to implement.
 
