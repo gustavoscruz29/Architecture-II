@@ -9,7 +9,9 @@
 
 The image below illustrates the second stage of the ALU development:
 
-![ALU 4-bit](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/images/imageAlu4Bit.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/images/imageAlu4Bit.jpg?raw=true" alt="ALU 4-bit" width="700"/>
+</p>
 
 ---
 
@@ -17,7 +19,9 @@ The image below illustrates the second stage of the ALU development:
 
 The following image shows the simulation waveform of the circuit:
 
-![Simulation](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/images/simulacao1.png?raw=true)
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/02AluAndOr/images/simulacao1.png?raw=true" alt="Waveform Simulation" width="700"/>
+</p>
 
 ---
 
