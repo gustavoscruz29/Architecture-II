@@ -11,7 +11,9 @@ In this stage of the project, we designed and implemented an **adder**.
 
 The image below illustrates the concept of binary addition:
 
-![Binary Sum](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/images/sum_idea.png?raw=true)
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/images/sum_idea.png?raw=true" alt="Binary Sum" width="700"/>
+</p>
 
 ---
 
@@ -19,7 +21,9 @@ The image below illustrates the concept of binary addition:
 
 The following image shows the truth table, including **Carry In (Cin)** and **Carry Out (Cout)**:
 
-![Truth Table](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/images/tabela_verdade.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/images/tabela_verdade.jpg?raw=true" alt="Truth Table" width="600"/>
+</p>
 
 ---
 
@@ -27,7 +31,9 @@ The following image shows the truth table, including **Carry In (Cin)** and **Ca
 
 The image below presents the **Karnaugh Maps** for the outputs **R (Result)** and **Cout**, along with the simplified Boolean expressions implemented in `somador.vhd`:
 
-![Karnaugh Map](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/images/expressoes.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/images/expressoes.jpg?raw=true" alt="Karnaugh Map" width="600"/>
+</p>
 
 ---
 
@@ -35,7 +41,9 @@ The image below presents the **Karnaugh Maps** for the outputs **R (Result)** an
 
 The following image shows the simulation waveform of the adder:
 
-![Adder Simulation](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/images/adder_simulation.png?raw=true)
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/adder/images/adder_simulation.png?raw=true" alt="Adder Simulation" width="700"/>
+</p>
 
 ### 🧪 Simulation Details
 
