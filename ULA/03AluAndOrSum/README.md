@@ -15,7 +15,9 @@ In this stage of the project, an **adder** was integrated into the ALU.
 
 The image below illustrates the current structure of the ALU:
 
-![ALU Design](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/lessonIdea.png?raw=true)
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/lessonIdea.png?raw=true" alt="ALU Design" width="700"/>
+</p>
 
 ---
 
@@ -31,10 +33,14 @@ The following images present waveform simulations of the ALU:
 
 ### 🧪 Laboratory Simulation
 
-![Lab Simulation](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/classSimulation.png?raw=true)
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/classSimulation.png?raw=true" alt="Lab Simulation" width="700"/>
+</p>
 
 ---
 
 ### ⚠️ Overflow Simulation
 
-![Overflow Simulation](https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/SumOverflowSimulation.png?raw=true)
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/Architecture-II/blob/main/ULA/03AluAndOrSum/images/SumOverflowSimulation.png?raw=true" alt="Overflow Simulation" width="700"/>
+</p>
